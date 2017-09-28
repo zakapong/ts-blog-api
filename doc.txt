@@ -1,0 +1,4 @@
+npm install -g typescript
+
+command: tsc
+npm run start
