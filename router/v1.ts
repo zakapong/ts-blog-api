@@ -1,6 +1,6 @@
 import * as express from 'express';
-import { getUserById, createUser, updateUser, deleteUser } from '../controllers/UserController';
-import { getAllPosts, getPostById, createPost, updatePost, deletePost } from '../controllers/PostController';
+import { getUserById, createUser, updateUser, deleteUser } from '../controller/UserController';
+import { getAllPosts, getPostById, createPost, updatePost, deletePost } from '../controller/PostController';
 
 
 export default (app) => {
