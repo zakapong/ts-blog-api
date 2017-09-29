@@ -12,7 +12,7 @@
   test_port: 3001,
 
   // secret for jwt
-  secret: 'secret'
+   secret: 'secret'
 };
 
 export default config;
